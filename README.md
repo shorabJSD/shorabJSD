@@ -1,4 +1,4 @@
-👋 Hi, I’m @shorabJSD
+👋 Hi, I’m @shorabJS
 👀 I’m interested in AI technology.
 🌱 I’m currently learning full stack software development.
 💞️ I’m looking to collaborate on LinkedIn.
